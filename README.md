@@ -10,7 +10,7 @@
 
 To get a local copy up and running follow these simple example steps.
 
-- `git clone https://github.com/myaserkhan/Math-Magicians.git`
+- `git clone https://github.com/myaserkhan/Movie-Land.git`
 - `cd Math-Magician`
 - `npm install`
 - `npm start`
